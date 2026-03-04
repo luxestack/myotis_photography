@@ -1,39 +1,46 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # myotis_photography
 =======
 # Getting Started with Create React App
+=======
+📸 Myotis Photography
+>>>>>>> 02c6c7d (update readme)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Official website repository for Myotis Photography, capturing live music, raw energy, and unforgettable moments through professional concert photography.
 
-## Available Scripts
+ About
 
-In the project directory, you can run:
+Myotis Photography specializes in live music and touring photography.
+Each show is treated as a new creative challenge, chasing light, motion, and emotion to deliver powerful, story-driven imagery.
 
-### `npm start`
+This project powers the official online portfolio and booking platform.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Built with modern web technologies for speed, scalability, and performance:
 
-### `npm test`
+- Vite
+- React
+- TypeScript
+- Custom CSS
+- Fully Responsive Design
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Contact
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+For bookings, tour inquiries, or collaborations:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Email: [myotis.xd.photography@gmail.com](mailto:myotis.xd.photography@gmail.com) 
 
-### `npm run eject`
+# Performance Focus
+- Optimized image loading
+- Fast static deployment
+- Clean component architecture
+- SEO-conscious structure
 
+<<<<<<< HEAD
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
@@ -72,3 +79,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> ffc6116 (initial commit)
+=======
+Made By *LUXESTACK*
+© 2026 Myotis Photography. All rights reserved.
+>>>>>>> 02c6c7d (update readme)
